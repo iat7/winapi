@@ -1,0 +1,14 @@
+﻿  CHeapManager.cpp
+..\CHeapManager.cpp(43): warning C4018: '<': signed/unsigned mismatch
+..\CHeapManager.cpp(130): warning C4018: '<': signed/unsigned mismatch
+..\CHeapManager.cpp(131): warning C4018: '<=': signed/unsigned mismatch
+..\CHeapManager.cpp(131): warning C4018: '<': signed/unsigned mismatch
+..\CHeapManager.cpp(132): warning C4018: '<=': signed/unsigned mismatch
+..\CHeapManager.cpp(137): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  5 of 363 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> c:\users\ivan\documents\visual studio 2017\Projects\Project1\Release\Project1.exe

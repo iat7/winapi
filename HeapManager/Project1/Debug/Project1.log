@@ -1,0 +1,11 @@
+﻿  main.cpp
+  CHeapManager.cpp
+c:\users\ivan\documents\visual studio 2017\projects\project1\cheapmanager.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan\documents\visual studio 2017\projects\project1\cheapmanager.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan\documents\visual studio 2017\projects\project1\cheapmanager.cpp(123): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ivan\documents\visual studio 2017\projects\project1\cheapmanager.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan\documents\visual studio 2017\projects\project1\cheapmanager.cpp(124): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ivan\documents\visual studio 2017\projects\project1\cheapmanager.cpp(129): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> c:\users\ivan\documents\visual studio 2017\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\ivan\documents\visual studio 2017\Projects\Project1\Debug\Project1.pdb (Partial PDB)
